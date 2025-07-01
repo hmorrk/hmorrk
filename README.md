@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Houssam </h1>
-<h3 align="center">a passionate industrial digitization & software engineering student</h3>
+<h3 align="center">a passionate industrial digitalization & software engineering student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hmorrk&label=Profile%20views&color=0e75b6&style=flat" alt="hmorrk" />
@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently pursuing a **Professional Bachelor's in Industrial Operations and Digitization** at [UM6P](https://www.um6p.ma/) and a student at **1337**, the project-based coding school of 42 Network.
+- 🎓 I'm currently pursuing a **Professional Bachelor's in Industrial Operations and Digitalization** at [UM6P](https://www.um6p.ma/) and a student at **1337**, the project-based coding school of 42 Network.
 
 - 🔧 I love **building efficient systems** at the intersection of **automation, software, and hardware**.
 
