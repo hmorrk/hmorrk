@@ -33,7 +33,6 @@
 - 💻 **Languages:** C, C++, Python, Bash, SQL
 - ⚙️ **Tools:** Git, Linux, Make, VS Code, Factory IO, Jupyter, MySQL
 - 🔌 **Tech:** Multithreading, Signals, Semaphores, Raspberry Pi, PLCs
-- ☁️ **Other:** Figma, Canva, Trello, Notion
 
 ---
 
