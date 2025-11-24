@@ -15,7 +15,7 @@
 
 
 - ⚙️ Recent projects:
-  - **Minishell**, **philosophers**, **push_swap** — core 42 Unix C projects.
+  - **Minishell**, **philosophers**, **push_swap**, **Cub3D** — core 42 Unix C projects.
   - **Factory I/O automation** and **smart sensors simulation**.
   - **SolarGrid Insight** – awarded project during UM6P's Science Week 2025.
   - **Robotics competitions** (IRC & URC) participant.
